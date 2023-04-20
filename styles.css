@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --darkGrey: rgb(37, 38, 40);
+  --lighterRed: rgb(190, 49, 68);
+  --darkerRed: rgb(190, 49, 68);
+  --blue: rgb(69, 86, 125);
+  --orange: rgb(255, 127, 79);
+  --lighterGrey: rgb(48, 56, 65);
+}
